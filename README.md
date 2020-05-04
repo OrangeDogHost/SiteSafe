@@ -1,2 +1,2 @@
-# SiteSafe
-Orange Dog SiteSafe Certification
+# SiteSafe Resources
+Orange Dog SiteSafe
